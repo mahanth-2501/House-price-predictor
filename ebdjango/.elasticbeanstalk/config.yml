@@ -1,0 +1,5 @@
+branch-defaults:
+  default:
+    environment: aws-django-env
+global:
+  profile: eb-cli
